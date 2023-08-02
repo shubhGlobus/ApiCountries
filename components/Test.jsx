@@ -26,7 +26,7 @@ const ReducerTutorial = () => {
         {' '}
         Click Here{' '}
       </button>{' '}
-      {state.showText && <p>This is a text</p>}{' '}
+      {state.showText && <p>This is a Text</p>}{' '}
     </div>
   )
 }
